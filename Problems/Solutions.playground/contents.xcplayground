@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Fibonacci Even'/>
+        <page name='Largest Prime Factor'/>
+        <page name='Multiplication 3, 5'/>
+        <page name='Smallest Multiple'/>
+        <page name='Special Pythagorian'/>
+        <page name='Sum Square Dif'/>
+        <page name='Lattice paths'/>
+        <page name='Power digit sum '/>
+        <page name='Factorial digit sum'/>
+        <page name='10001st prime'/>
+    </pages>
+</playground>
